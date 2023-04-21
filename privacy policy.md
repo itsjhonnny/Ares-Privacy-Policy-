@@ -1,5 +1,5 @@
 ## **Ares Privacy Policy**
-### By using Flantic you accept with its privacy policy.
+### By using Ares you accept with its privacy policy.
 
 ## 1. What does it store?
 
@@ -44,7 +44,3 @@
 ## 6. How can we delete our entire data?
 
 ### Simply join our support server and ask any of the bot moderator to delete your entire data, They will delete your entrie data without asking any question.
-
-
-## Please note, that we can change this policy without any warning at any given time.
-#### **Last changed:**  `2021 November 9th`
